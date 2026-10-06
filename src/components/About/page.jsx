@@ -596,7 +596,7 @@ export default function AboutSection() {
                                         <h4 style={{ margin: 0, fontSize: 'clamp(18px, 1.3vw, 22px)', fontWeight: 600, color: '#fff' }}>
                                             UI/UX Designer
                                         </h4>
-                                        <span style={{ fontSize: '13px', color: '#818cf8', fontWeight: 500 }}>2024 — Present</span>
+                                        <span style={{ fontSize: '13px', color: '#818cf8', fontWeight: 500 }}>2026 — Present</span>
                                     </div>
                                     <div style={{ fontSize: '14px', color: '#cbd5e1', marginTop: '4px' }}>Masterstroke</div>
                                     <p style={{ margin: '10px 0 0 0', fontSize: '14px', lineHeight: 1.6, color: '#94a3b8' }}>
